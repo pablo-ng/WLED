@@ -1,3 +1,7 @@
+This fork lets you add a backup WiFi network which the ESP will connect to if the main network is not reachable before it goes into AP mode.
+
+---
+
 <p align="center">
   <img src="/images/wled_logo_akemi.png">
   <a href="https://github.com/Aircoookie/WLED/releases"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
